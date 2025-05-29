@@ -5,5 +5,4 @@ scipy
 matplotlib
 seaborn
 missingno
-sklearn
 pandas-datareader
