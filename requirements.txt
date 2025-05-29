@@ -1,4 +1,7 @@
 pandas
 plotly
 streamlit
+scipy
+matplotlib
+seaborn
 pandas-datareader
