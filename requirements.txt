@@ -8,5 +8,3 @@ missingno
 sklearn
 scipy.stats
 pandas-datareader
-scikit-learn
-imbalanced-learn

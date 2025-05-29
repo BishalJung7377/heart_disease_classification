@@ -60,7 +60,7 @@ Check out the dashboard in action:
 
 ![Demo GIF](images/demo.gif)
 
-[Live Demo (if hosted)](https://heartdiseaseclassification-bsalt.streamlit.app/)
+[Live Demo](https://heartdiseaseclassification-bsalt.streamlit.app/)
 
 ## Installation 🛠️
 
