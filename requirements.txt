@@ -6,4 +6,5 @@ matplotlib
 seaborn
 missingno
 scikit-learn
+imblearn.over_sampling
 pandas-datareader
