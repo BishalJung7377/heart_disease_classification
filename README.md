@@ -1,6 +1,7 @@
 # Heart Disease Analysis Dashboard 🩺
 
-![Dashboard Preview](images/dashboard_preview.png#gh-light-mode-only)
+![Dashboard Preview][image](https://github.com/user-attachments/assets/400497fa-5a6f-4aa5-b524-b59d4daa5de6)
+
 ![Dashboard Preview](images/dashboard_preview_dark.png#gh-dark-mode-only)
 
 [![GitHub license](https://img.shields.io/github/license/yourusername/heart-disease-dashboard)](https://github.com/yourusername/heart-disease-dashboard/blob/main/LICENSE)
