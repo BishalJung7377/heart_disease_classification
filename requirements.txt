@@ -6,5 +6,4 @@ matplotlib
 seaborn
 missingno
 sklearn
-scipy.stats
 pandas-datareader
