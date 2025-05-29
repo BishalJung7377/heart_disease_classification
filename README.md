@@ -69,4 +69,4 @@ Follow these steps to set up the project locally:
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/heart-disease-dashboard.git
+   git clone https://github.com/bishaljung7377/heart-disease-dashboard.git
