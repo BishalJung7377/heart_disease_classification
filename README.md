@@ -12,6 +12,7 @@
 A powerful, interactive Streamlit dashboard for exploratory data analysis (EDA), statistical testing, and machine learning on a cleaned heart disease dataset from 2020. Analyze key health indicators, visualize trends, and build predictive models to understand heart disease risk factors.
 
 ## Table of Contents 📑
+
 - [About](#about)
 - [Features](#features)
 - [Demo](#demo)
@@ -24,7 +25,9 @@ A powerful, interactive Streamlit dashboard for exploratory data analysis (EDA),
 - [Acknowledgements](#acknowledgements)
 
 ## About ℹ️
+
 This project provides an interactive dashboard built with **Streamlit** to analyze the **2020 Heart Disease Dataset**. It offers tools for:
+
 - **Exploratory Data Analysis (EDA)**: Visualize numerical and categorical features with histograms, box plots, pie charts, and correlation heatmaps.
 - **Statistical Testing**: Perform normality tests (Kolmogorov-Smirnov), Mann-Whitney U tests, and Chi-Square tests to uncover relationships with heart disease.
 - **Machine Learning**: Train and evaluate models like Logistic Regression, Random Forest, SVM, Gradient Boosting, MLP, and KNN, with optional SMOTE balancing and hyperparameter tuning.
@@ -33,6 +36,7 @@ This project provides an interactive dashboard built with **Streamlit** to analy
 The dashboard is designed for researchers, data scientists, and healthcare enthusiasts to explore heart disease risk factors interactively.
 
 ## Features ✨
+
 - **Data Overview**: View dataset structure, missing values, and duplicates with a user-friendly interface.
 - **EDA Visualizations**:
   - Distribution plots (histograms, KDE, box plots, pie charts).
@@ -51,22 +55,26 @@ The dashboard is designed for researchers, data scientists, and healthcare enthu
 - **Outlier Removal**: Apply IQR-based outlier removal for numerical features like BMI and PhysicalHealth.
 
 ## Demo 🎥
+
 Check out the dashboard in action:
 
 ![Demo GIF](images/demo.gif)
 
-[Live Demo (if hosted)](https://your-hosted-url.streamlit.app/) *(Replace with your hosted URL if applicable)*
+[Live Demo (if hosted)](https://heartdiseaseclassification-bsalt.streamlit.app/)
 
 ## Installation 🛠️
 
 Follow these steps to set up the project locally:
 
 ### Prerequisites
+
 - Python 3.8 or higher
 - Git
 - A code editor (e.g., VS Code, PyCharm)
 
 ### Steps
+
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/bishaljung7377/heart-disease-dashboard.git
+   ```
